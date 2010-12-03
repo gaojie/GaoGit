@@ -3,6 +3,7 @@
  *
  * (C) 2004 William Irwin, Oracle
  */
+#include <gaojie.h>
 #include <linux/init.h>
 #include <linux/module.h>
 #include <linux/sched.h>
